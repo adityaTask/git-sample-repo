@@ -1,2 +1,11 @@
 git status
 git init
+
+
+
+
+
+---------------------------------------
+
+flow diagram
+text not present in private branch1
